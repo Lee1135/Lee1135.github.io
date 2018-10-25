@@ -1,0 +1,10 @@
+Application Server Keys
+Application server keys are used to idenitfy your application server with a push service.
+
+Public Key
+
+BML9yTp9bKY7awDN0YxiJjscLVMAQBA5PM1sAc0d0T75sr0FxSjm8lGEiP4FAthmdKGZlaq04K3IDbX6WsBqQ2w
+
+Private Key
+
+qdpCDVthCgTmf_rx-X1lQk7vdqKNWdq8IHtEniOQ0Mg
